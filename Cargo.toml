@@ -1,0 +1,10 @@
+[package]
+name = "cg_flame_extinguisher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "referee"
+path = "src/referee.rs"
